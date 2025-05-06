@@ -64,7 +64,7 @@ const ExpenseStyled = styled.div`
     border-radius: 20px;
     padding: 1rem;
     margin: 1rem 0;
-    font-size: 2rem;
+    font-size: 1.5rem;
     gap: 0.5rem;
     span {
       font-size: 2.5rem;
